@@ -1,0 +1,6 @@
+{
+  "name": "Музыкальный Сборник",
+  "description": "Приложение с текстами песен, выполненное в крупном шрифте для удобства чтения.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
